@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabia</h1>
-<h3 align="center">A junior full stack developer</h3>
+<h3 align="center">Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akdasrabia&label=Profile%20views&color=0e75b6&style=flat" alt="akdasrabia" /> </p>
 
